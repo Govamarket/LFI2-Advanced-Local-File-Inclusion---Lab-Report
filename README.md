@@ -1,9 +1,5 @@
 # LFI2-Advanced-Local-File-Inclusion---Lab-Report
 
-Here's the raw README text you can paste directly into your repo:
-
----
-
 ```markdown
 # 🛡️ LFI2: Advanced Local File Inclusion — Lab Report
 
