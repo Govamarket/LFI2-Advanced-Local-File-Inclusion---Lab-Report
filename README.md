@@ -24,10 +24,8 @@ Educational Security Research Report
 ```
 ..\/..\/app_secrets.txt
 <div>
-  <img width="892" height="436" alt="appp" src="https://github.com/user-attachments/assets/f919b4c9-5600-49ef-a871-8e96bc38aba5" />
-
+<img width="1366" height="688" alt="appl" src="https://github.com/user-attachments/assets/21fb8124-3481-4b5b-b2e4-16f38cdae96a" />
 </div>
-```
 
 **Technique:** Mixed separator bypass
 
