@@ -21,7 +21,7 @@ Educational Security Research Report
 ## ✅ Successful Exploit
 
 ### Payload Used
-```
+
 ..\/..\/app_secrets.txt
 <div>
 <img width="1366" height="688" alt="appl" src="https://github.com/user-attachments/assets/21fb8124-3481-4b5b-b2e4-16f38cdae96a" />
