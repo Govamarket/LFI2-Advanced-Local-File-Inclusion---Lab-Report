@@ -27,6 +27,7 @@ Educational Security Research Report
 <img width="1366" height="688" alt="appl" src="https://github.com/user-attachments/assets/21fb8124-3481-4b5b-b2e4-16f38cdae96a" />
 </div>
 
+---
 **Technique:** Mixed separator bypass
 
 The filter blocked `../` but did not account for `..\/` (mixing forward and backslash). The OS path resolver treated `\/` as a valid separator and traversed up the directory tree successfully.
