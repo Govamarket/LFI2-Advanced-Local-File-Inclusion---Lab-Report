@@ -34,6 +34,7 @@ Here's the raw README text you can paste directly into your repo:
 
 </div>
 ```
+
 **Technique:** Mixed separator bypass
 
 The filter blocked `../` but did not account for `..\/` (mixing forward and backslash). The OS path resolver treated `\/` as a valid separator and traversed up the directory tree successfully.
