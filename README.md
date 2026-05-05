@@ -1,22 +1,20 @@
 # LFI2-Advanced-Local-File-Inclusion---Lab-Report
 
-```markdown
-# 🛡️ LFI2: Advanced Local File Inclusion — Lab Report
 
-> **Educational Security Research Report**
-> Documenting observed vulnerability behavior, successful bypass techniques, and error analysis.
+Educational Security Research Report
+ Documenting observed vulnerability behavior, successful bypass techniques, and error analysis.
 
 ---
 
-## 📋 Lab Overview
+##  Lab Overview
 
 | Property | Detail |
 |---|---|
-| **Lab** | LFI2: Advanced Local File Inclusion |
-| **Difficulty** | Advanced |
-| **Objective** | Bypass security filters to read sensitive files |
-| **Target File** | `app_secrets.txt` |
-| **Flag Captured** | `FLAG{local_file_inclusion_master}` |
+| Lab | LFI2: Advanced Local File Inclusion |
+| Difficulty | Advanced |
+| Objective | Bypass security filters to read sensitive files |
+| Target File | `app_secrets.txt` |
+| Flag Captured | `FLAG{local_file_inclusion_master}` |
 
 ---
 
